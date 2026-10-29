@@ -1,0 +1,7 @@
+{
+  "name": "wordwarehq",
+  "private": true,
+  "dependencies": {
+    "drizzle-orm": "^0.44.3"
+  }
+}
